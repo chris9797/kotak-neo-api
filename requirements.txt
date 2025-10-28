@@ -1,4 +1,4 @@
-bidict==0.22.1
+bidict==0.23.1
 certifi==2025.10.5
 idna==3.11
 numpy==2.3.4
